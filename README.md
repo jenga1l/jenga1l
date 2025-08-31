@@ -39,7 +39,7 @@
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=jenga1l&theme=nord&hide_border=true&border_radius=15&locale=ru" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=jenga1l&theme=nord&hide_border=true&border_radius=15" />
     </p>
     <p align="center">
         <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jenga1l&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
@@ -55,6 +55,7 @@
 <img src="https://komarev.com/ghpvc/?username=jenga1l&style=plastic&label=Views"><img>
 
 </p>
+
 
 
 
