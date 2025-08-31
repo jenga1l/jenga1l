@@ -1,12 +1,12 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="images/svg/header.svg"></img>
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;Hello! I am a novice developer who has been purposefully immersing myself in backend development 
-&nbsp;&nbsp;&nbsp;for the past three years and building a foundation in algorithms, architecture, and data processing. 
-&nbsp;&nbsp;&nbsp;My goal is simple: to grow systematically and tackle complex production tasks without stopping halfway.
-&nbsp;&nbsp;&nbsp;Focused on clean code, clear documentation, and stable services: 
-&nbsp;&nbsp;&nbsp;from API design to testing and deployment; open to mentoring and collaboration in Open Source.
+&nbsp;&nbsp;&nbsp;Hello! I am a novice developer who has been purposefully immersing myself in backend development \
+&nbsp;&nbsp;&nbsp;for the past three years and building a foundation in algorithms, architecture, and data processing. \
+&nbsp;&nbsp;&nbsp;My goal is simple: to grow systematically and tackle complex production tasks without stopping halfway.\
+&nbsp;&nbsp;&nbsp;Focused on clean code, clear documentation, and stable services: \
+&nbsp;&nbsp;&nbsp;from API design to testing and deployment; open to mentoring and collaboration in Open Source.\
 
 <p align="center">
   <a href="mailto:jenga1l.dev@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -68,4 +68,5 @@
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
 <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
+
 </p>
