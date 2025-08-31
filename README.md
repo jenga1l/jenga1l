@@ -19,7 +19,7 @@
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
-![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=flat&logo=.net&logoColor-3776AB.svg?&style=flat&logo=python&logo-00ADD8.svg?&style=flat&logo=go&logoColor=style=flat&logo=.net&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C#-%231572B6.svg?&style=flat&logo=c#&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![Golang](https://img.shields.io/badge/GOLANG-00ADD8.svg?&style=flat&logo=go&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -54,6 +54,7 @@
 <img src="https://komarev.com/ghpvc/?username=jenga1l&style=plastic&label=Views"><img>
 
 </p>
+
 
 
 
